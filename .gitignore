@@ -1,0 +1,10 @@
+*.DS_*
+bin
+var
+
+# Installer logs
+pip-log.txt
+
+venv
+*.pyc
+build
